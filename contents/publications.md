@@ -1,27 +1,27 @@
 Journal Papers
 
 Zhiwei Li, Yifei Huan, et al. 
-"A UWB Positioning Method Based on Clustering for NLOS Identification and Mitigation."
+"A UWB Positioning Method Based on Clustering for NLOS Identification and Mitigation"
 IEEE Transactions on Industrial Electronics (Top Journal, IF: 7.8)
 Status: Under Revision
 
 Zhiwei Li, Yifei Huan, et al.
-"A Robust Localization Algorithm for Wireless Sensor Networks in Complex Indoor Environments."
+"A Robust Localization Algorithm for Wireless Sensor Networks in Complex Indoor Environments"
 IEEE Transactions on Industrial Informatics (Top Journal, IF: 9.9)
 Status: Under Review
 
 Zhong Cheng, Yifei Huan, et al.
-"基于CNN-GRU的GPS/INS车载定位补偿算法 (A GPS/INS Vehicle Positioning Compensation Algorithm Based on CNN-GRU)."
+"基于CNN-GRU的GPS/INS车载定位补偿算法 (A GPS/INS Vehicle Positioning Compensation Algorithm Based on CNN-GRU)"
 控制工程 (Control Engineering) (Chinese Core Journal)
 Status: Accepted
 
 Patents
 
 李志伟，桓翼飞
-“一种基于动态可靠性评估的UWB鲁棒卡尔曼定位算法。”
+“一种基于动态可靠性评估的UWB鲁棒卡尔曼定位算法”
 发明型专利
 
 李志伟，桓翼飞
-“一种基于聚类识别与缓解NLOS的UWB定位方法。”
+“一种基于聚类识别与缓解NLOS的UWB定位方法”
 发明型专利
 
