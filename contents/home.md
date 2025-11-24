@@ -1,20 +1,14 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+正于中国吉林省吉林市的东北电力大学 自动化工程学院 攻读 仪器科学与技术专业 学术型硕士学位。
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+邮箱
+<code>TLKni@outlook.com</code>
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+教育背景
+东北电力大学，仪器科学与技术，工学硕士（2023.09 – 2026.06）
+• 平均绩点：3.63/5.0 | 平均成绩：88.18/100 | 专业排名：5/31
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+山东科技大学，测控技术与仪器，工学学士（2018.09 – 2022.06）
+• 平均绩点：2.58/5.0 | 平均成绩：77.84/100
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
+研究方向
+室内定位，组合导航，超宽带技术，传感器融合，智能机器人。
