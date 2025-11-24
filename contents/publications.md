@@ -1,13 +1,13 @@
 Journal Papers
 
 Zhiwei Li, Yifei Huan, et al. 
-"A UWB Positioning Method Based on Clustering for NLOS Identification and Mitigation"
-IEEE Transactions on Industrial Electronics (Top Journal, IF: 7.8)
+"A UWB Positioning Method Based on Clustering for NLOS Identification and Mitigation,"
+IEEE Transactions on Industrial Electronics (Top Journal Q1, IF: 7.8)
 Status: Under Revision
 
 Zhiwei Li, Yifei Huan, et al.
-"A Robust Localization Algorithm for Wireless Sensor Networks in Complex Indoor Environments"
-IEEE Transactions on Industrial Informatics (Top Journal, IF: 9.9)
+"A Robust Localization Algorithm for Wireless Sensor Networks in Complex Indoor Environments,"
+IEEE Transactions on Industrial Informatics (Top Journal Q1, IF: 9.9)
 Status: Under Review
 
 Zhong Cheng, Yifei Huan, et al.
