@@ -12,7 +12,7 @@ Status: Under Review
 
 Zhong Cheng, Yifei Huan, et al.
 "基于CNN-GRU的GPS/INS车载定位补偿算法 (A GPS/INS Vehicle Positioning Compensation Algorithm Based on CNN-GRU)"
-控制工程 (Control Engineering) (Chinese Core Journal)
+控制工程 (Control Engineering) (Core Journal of China)
 Status: Accepted
 
 Patents
