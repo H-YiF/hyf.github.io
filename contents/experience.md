@@ -1,6 +1,6 @@
  Flexible Intelligent Material Soft Robotic Hand & Control System Design
 
-Jan 2024 – Present | National Natural Science Foundation of China (General Program) | 
+Jan 2024 – Present | National Natural Science Foundation of China | 
 
 Led the core algorithm R&D for a bio-inspired robotic hand system, focusing on multi-source fusion indoor positioning and intelligent grasping planning in unstructured environments.
 
