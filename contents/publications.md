@@ -1,6 +1,6 @@
-Publications
 Journal Papers
-Zhiwei Li, Yifei Huan, et al.
+
+Zhiwei Li, Yifei Huan, et al. 
 "A UWB Positioning Method Based on Clustering for NLOS Identification and Mitigation."
 IEEE Transactions on Industrial Electronics (Top Journal, IF: 7.8)
 Status: Under Revision
@@ -16,10 +16,10 @@ Zhong Cheng, Yifei Huan, et al.
 Status: Accepted
 
 Patents
+
 李志伟，桓翼飞。
 “一种基于动态可靠性评估的UWB鲁棒卡尔曼定位算法。”
 国家发明专利。
-
 
 李志伟，桓翼飞。
 “一种基于聚类识别与缓解NLOS的UWB定位方法。”
