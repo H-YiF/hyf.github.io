@@ -53,31 +53,3 @@ Built an emergency response mechanism into the system, ensuring real-time perfor
 开发了面向零碳仓储的智能化物资调度策略，实现在线追踪与资源优化调配。
 
 构建了突发事件响应机制，从技术上保障了调度策略的实时性和智能性。
-
-Liquid Lens Zoom Unit for Robotic Vision Systems
-
-| Northeast Electric Power University | 
-
-Investigated and developed a positioning-guided rapid zoom drive technology for liquid lenses to achieve pre-focusing and continuous clear tracking of dynamic targets.
-
-Key Contributions & Achievements:
-
-Proposed and developed a "positioning-guided, vision-refined" collaborative perception mechanism.
-
-Utilized coarse-grained target location and distance information from indoor positioning systems to pre-set the optimal focal length for the liquid lens.
-
-Combined visual clarity feedback for microsecond-level fine-tuning, achieving millisecond-level locking and multi-scale observation of moving targets.
-
-面向机器人视觉的液态镜头变焦单元关键技术
-
- | 东北电力大学 |
-
-研究与开发基于室内定位信息前瞻引导的液态镜头快速变焦驱动技术，实现对动态目标的预对焦与持续清晰追踪。
-
-主要贡献与成果：
-
-提出并研发了“定位引导-视觉精调”协同感知机制。
-
-利用室内定位系统提供的目标粗粒度位置与距离信息，为液态镜头提供最优焦距预置。
-
-结合视觉清晰度反馈进行微秒级精调，从而实现对运动目标的毫秒级锁定与多尺度精细观测。
