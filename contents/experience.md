@@ -1,30 +1,3 @@
- Flexible Intelligent Material Soft Robotic Hand & Control System Design
-
-Jan 2024 – Present | National Natural Science Foundation of China | 
-
-Led the core algorithm R&D for a bio-inspired robotic hand system, focusing on multi-source fusion indoor positioning and intelligent grasping planning in unstructured environments.
-
-Key Contributions & Achievements:
-
-Researched and developed a multi-source fusion indoor positioning technology for accurate cross-perception of operating targets and robotic gripper positions.
-
-Designed an intelligent grasping planning strategy for active interaction, establishing hand-eye coordination and adaptive grasping control mechanisms.
-
-Implemented real-time dynamic target tracking and online trajectory planning based on spatial pose cross-perception, enhancing the system's compliance and robustness.
-
-柔性智能材料软件仿生手及其控制系统设计
-
-2024年1月 – 至今 | 国家自然科学基金面上项目 | 
-
-主导仿生手系统的核心算法研发，专注于非结构化环境下的多源融合室内定位与智能抓取规划。
-
-主要贡献与成果：
-
-研发基于多源融合室内定位技术的操作目标与手爪精确位置交叉感知技术。
-
-开发了面向主动交互的仿生手智能抓取规划策略，主要研究手眼协调与自适应抓取控制机制。
-
-基于空间位姿交叉感知，实现了动态目标追踪和抓取轨迹的在线规划，显著提升了抓取操作的柔顺性与鲁棒性。
 
 Key Technologies for Zero-Carbon Warehousing
 
