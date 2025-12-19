@@ -3,7 +3,7 @@
 Zhiwei Li, Yifei Huan, et al. 
 "A UWB Positioning Method Based on Clustering for NLOS Identification and Mitigation,"
 IEEE Transactions on Industrial Electronics (Top Journal Q1, IF: 7.8)
-Status: Under Revision
+Status: Accepted
 
 Zhiwei Li, Yifei Huan, et al.
 "A Robust Localization Algorithm for Wireless Sensor Networks in Complex Indoor Environments,"
