@@ -6,7 +6,7 @@ IEEE Transactions on Industrial Electronics (Top Journal Q1, IF: 7.8)
 Status: Accepted
 
 Zhiwei Li, Yifei Huan, et al.
-"A Robust Localization Algorithm for Wireless Sensor Networks in Complex Indoor Environments,"
+"A Robust Localization Algorithm for Wireless Sensor Networks in Disturbed Indoor Environments,"
 IEEE Transactions on Industrial Informatics (Top Journal Q1, IF: 9.9)
 Status: Under Review
 
