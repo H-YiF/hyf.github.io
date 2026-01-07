@@ -15,7 +15,7 @@ Yifei Huan, Zhiwei Li, et al.
 中国惯性技术学报 Journal of Chinese Inertial Technology  (EI Compendex, IF: 2.65)
 Status: Under Review
 
-Zhong Cheng, Yifei Huan, et al.
+Cheng Zhong, Yifei Huan, et al.
 "基于CNN-GRU的GPS/INS车载定位补偿算法 (A GPS/INS Vehicle Positioning Compensation Algorithm Based on CNN-GRU)"
 控制工程 Control Engineering (Core Journal of China, IF: 0.781)
 Status: Accepted
